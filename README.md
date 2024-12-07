@@ -9,7 +9,7 @@
 -  Thank You for visiting👁‍🗨
 
 > ## Preview:
-![Preview.png](https://github.com/Sandun-COM-80/My-portfolio/preview.png)
+![Preview.png](https://github.com/Sandun-COM-80/My-Portfolio/blob/main/preview.png)
 
 
 
